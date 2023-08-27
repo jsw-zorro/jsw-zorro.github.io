@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning System | Shuowei Jin</title>
-    <link>https://example.com/tag/machine-learning-system/</link>
-      <atom:link href="https://example.com/tag/machine-learning-system/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jsw-zorro.github.io/tag/machine-learning-system/</link>
+      <atom:link href="https://jsw-zorro.github.io/tag/machine-learning-system/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning System</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 21:56:53 -0400</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jsw-zorro.github.io/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning System</title>
-      <link>https://example.com/tag/machine-learning-system/</link>
+      <link>https://jsw-zorro.github.io/tag/machine-learning-system/</link>
     </image>
     
     <item>
       <title>ResTune: Resource Oriented Tuning Boosted by Meta-Learning for Cloud Databases</title>
-      <link>https://example.com/publication/restune/</link>
+      <link>https://jsw-zorro.github.io/publication/restune/</link>
       <pubDate>Wed, 09 Jun 2021 21:56:53 -0400</pubDate>
-      <guid>https://example.com/publication/restune/</guid>
+      <guid>https://jsw-zorro.github.io/publication/restune/</guid>
       <description></description>
     </item>
     
