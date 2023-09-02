@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Shuowei Jin</title>
-    <link>https://jsw-zorro.github.io/tag/machine-learning/</link>
-      <atom:link href="https://jsw-zorro.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuoweijin.com/tag/machine-learning/</link>
+      <atom:link href="https://shuoweijin.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 21:56:53 -0400</lastBuildDate>
     <image>
-      <url>https://jsw-zorro.github.io/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
-      <link>https://jsw-zorro.github.io/tag/machine-learning/</link>
+      <link>https://shuoweijin.com/tag/machine-learning/</link>
     </image>
     
     <item>
       <title>Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference</title>
-      <link>https://jsw-zorro.github.io/publication/ijcai19/</link>
+      <link>https://shuoweijin.com/publication/ijcai19/</link>
       <pubDate>Sat, 10 Aug 2019 21:56:53 -0400</pubDate>
-      <guid>https://jsw-zorro.github.io/publication/ijcai19/</guid>
+      <guid>https://shuoweijin.com/publication/ijcai19/</guid>
       <description></description>
     </item>
     

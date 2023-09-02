@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mobility management | Shuowei Jin</title>
-    <link>https://jsw-zorro.github.io/tag/mobility-management/</link>
-      <atom:link href="https://jsw-zorro.github.io/tag/mobility-management/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuoweijin.com/tag/mobility-management/</link>
+      <atom:link href="https://shuoweijin.com/tag/mobility-management/index.xml" rel="self" type="application/rss+xml" />
     <description>mobility management</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 May 2022 21:56:53 -0400</lastBuildDate>
     <image>
-      <url>https://jsw-zorro.github.io/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>mobility management</title>
-      <link>https://jsw-zorro.github.io/tag/mobility-management/</link>
+      <link>https://shuoweijin.com/tag/mobility-management/</link>
     </image>
     
     <item>
       <title>Vivisecting Mobility Management in 5G Cellular Networks</title>
-      <link>https://jsw-zorro.github.io/publication/vivisecting_mobility_management_in_5g/</link>
+      <link>https://shuoweijin.com/publication/vivisecting_mobility_management_in_5g/</link>
       <pubDate>Sun, 29 May 2022 21:56:53 -0400</pubDate>
-      <guid>https://jsw-zorro.github.io/publication/vivisecting_mobility_management_in_5g/</guid>
+      <guid>https://shuoweijin.com/publication/vivisecting_mobility_management_in_5g/</guid>
       <description></description>
     </item>
     
