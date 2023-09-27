@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures</title>
+      <link>https://shuoweijin.com/publication/vehicle-sec/</link>
+      <pubDate>Wed, 27 Sep 2023 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/vehicle-sec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: QUIC is not Quick Enough over Fast Internet</title>
+      <link>https://shuoweijin.com/publication/poster-quic/</link>
+      <pubDate>Wed, 20 Sep 2023 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/poster-quic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vivisecting Mobility Management in 5G Cellular Networks</title>
       <link>https://shuoweijin.com/publication/vivisecting_mobility_management_in_5g/</link>
       <pubDate>Sun, 29 May 2022 21:56:53 -0400</pubDate>
@@ -248,7 +264,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-261475839&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-891465723&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -258,7 +274,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-261475839&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-891465723&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

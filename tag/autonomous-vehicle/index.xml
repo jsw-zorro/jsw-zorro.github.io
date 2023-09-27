@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonomous Vehicle | Shuowei Jin</title>
+    <link>https://shuoweijin.com/tag/autonomous-vehicle/</link>
+      <atom:link href="https://shuoweijin.com/tag/autonomous-vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Autonomous Vehicle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 21:56:53 -0400</lastBuildDate>
+    <image>
+      <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <title>Autonomous Vehicle</title>
+      <link>https://shuoweijin.com/tag/autonomous-vehicle/</link>
+    </image>
+    
+    <item>
+      <title>On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures</title>
+      <link>https://shuoweijin.com/publication/vehicle-sec/</link>
+      <pubDate>Wed, 27 Sep 2023 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/vehicle-sec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
