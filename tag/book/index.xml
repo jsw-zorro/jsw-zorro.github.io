@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book | Shuowei Jin</title>
+    <link>https://shuoweijin.com/tag/book/</link>
+      <atom:link href="https://shuoweijin.com/tag/book/index.xml" rel="self" type="application/rss+xml" />
+    <description>book</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <title>book</title>
+      <link>https://shuoweijin.com/tag/book/</link>
+    </image>
+    
+    <item>
+      <title>夜晚的潜水艇(Submarine of the Night)</title>
+      <link>https://shuoweijin.com/misc/books-submarine/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-submarine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>繁花 (Blossoms)</title>
+      <link>https://shuoweijin.com/misc/books-blossoms/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-blossoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Snow</title>
+      <link>https://shuoweijin.com/misc/books-springsnow/</link>
+      <pubDate>Wed, 27 Apr 1966 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-springsnow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flowers for Algernon</title>
+      <link>https://shuoweijin.com/misc/books-flowesforalgernon/</link>
+      <pubDate>Mon, 27 Apr 1959 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-flowesforalgernon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fountainhead</title>
+      <link>https://shuoweijin.com/misc/books-fountainhead/</link>
+      <pubDate>Tue, 27 Apr 1943 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-fountainhead/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

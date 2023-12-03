@@ -153,6 +153,14 @@
     </item>
     
     <item>
+      <title>夜晚的潜水艇(Submarine of the Night)</title>
+      <link>https://shuoweijin.com/misc/books-submarine/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-submarine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference</title>
       <link>https://shuoweijin.com/publication/ijcai19/</link>
       <pubDate>Sat, 10 Aug 2019 21:56:53 -0400</pubDate>
@@ -264,7 +272,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-863752149&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-769521834&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -274,7 +282,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-863752149&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-769521834&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -883,6 +891,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>繁花 (Blossoms)</title>
+      <link>https://shuoweijin.com/misc/books-blossoms/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-blossoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deserts Chang (张悬)/An Pu (安溥)</title>
       <link>https://shuoweijin.com/misc/music-zhangxuan/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -952,6 +968,30 @@ $$&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;The Wall&amp;rdquo; is renowned for its narrative depth, following the story of a jaded rock star named Pink, whose life experiences form a metaphorical wall that isolates him from the world. The album&amp;rsquo;s music is a complex blend of rock, theatrical elements, and sound effects, creating a rich and immersive listening experience. Notable tracks like &amp;ldquo;Another Brick in the Wall, Part 2,&amp;rdquo; &amp;ldquo;Comfortably Numb,&amp;rdquo; and &amp;ldquo;Hey You&amp;rdquo; are just a few examples of the album&amp;rsquo;s diverse and impactful songs.&lt;/p&gt;
 &lt;p&gt;The album&amp;rsquo;s release was followed by a stage show renowned for its elaborate theatrical effects, further cementing Pink Floyd&amp;rsquo;s reputation for innovative and visually striking performances. &amp;ldquo;The Wall&amp;rdquo; not only showcases Pink Floyd&amp;rsquo;s musical genius but also reflects the band&amp;rsquo;s ability to weave profound storytelling into their albums, making it a landmark in the history of rock music. The album&amp;rsquo;s enduring popularity and influence are a testament to Pink Floyd&amp;rsquo;s unique place in the pantheon of rock legends.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Spring Snow</title>
+      <link>https://shuoweijin.com/misc/books-springsnow/</link>
+      <pubDate>Wed, 27 Apr 1966 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-springsnow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flowers for Algernon</title>
+      <link>https://shuoweijin.com/misc/books-flowesforalgernon/</link>
+      <pubDate>Mon, 27 Apr 1959 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-flowesforalgernon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fountainhead</title>
+      <link>https://shuoweijin.com/misc/books-fountainhead/</link>
+      <pubDate>Tue, 27 Apr 1943 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books-fountainhead/</guid>
+      <description></description>
     </item>
     
     <item>
