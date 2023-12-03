@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>movie | Shuowei Jin</title>
+    <link>https://shuoweijin.com/tag/movie/</link>
+      <atom:link href="https://shuoweijin.com/tag/movie/index.xml" rel="self" type="application/rss+xml" />
+    <description>movie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <title>movie</title>
+      <link>https://shuoweijin.com/tag/movie/</link>
+    </image>
+    
+    <item>
+      <title>Everything Everywhere All at Once</title>
+      <link>https://shuoweijin.com/misc/movies/movie-everythingeverywhere/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/movies/movie-everythingeverywhere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>路边野餐 (Kaili Blues)</title>
+      <link>https://shuoweijin.com/misc/movies/movie-kailiblues/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/movies/movie-kailiblues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interstellar</title>
+      <link>https://shuoweijin.com/misc/movies/movie-interstellar/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/movies/movie-interstellar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>太阳照常升起 (The Sun Also Rises)</title>
+      <link>https://shuoweijin.com/misc/movies/movie-sunalsorises/</link>
+      <pubDate>Fri, 27 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/movies/movie-sunalsorises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forrest Gump</title>
+      <link>https://shuoweijin.com/misc/movies/movie-forestgump/</link>
+      <pubDate>Wed, 27 Apr 1994 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/movies/movie-forestgump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dead Poets Society</title>
+      <link>https://shuoweijin.com/misc/movies/movie-deadpoets/</link>
+      <pubDate>Thu, 27 Apr 1989 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/movies/movie-deadpoets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

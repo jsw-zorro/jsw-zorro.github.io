@@ -58,6 +58,18 @@
     <lastmod>2022-05-29T21:56:53-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://shuoweijin.com/misc/movies/movie-everythingeverywhere/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/tag/movie/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://shuoweijin.com/tag/database-systems/</loc>
     <lastmod>2021-06-09T21:56:53-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,6 +84,14 @@
   </url><url>
     <loc>https://shuoweijin.com/publication/a_variegated_look_at_5g_in_the_wild/</loc>
     <lastmod>2021-04-30T21:56:53-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/tag/anime/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/aime/anime-oddtaxi/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shuoweijin.com/tag/academic/</loc>
@@ -106,11 +126,7 @@
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books-submarine/</loc>
+    <loc>https://shuoweijin.com/misc/books/books-submarine/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -134,7 +150,7 @@
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-lanadelrey/</loc>
+    <loc>https://shuoweijin.com/misc/music/music-lanadelrey/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -182,11 +198,11 @@
     <lastmod>2017-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-ryuichisakamoto/</loc>
+    <loc>https://shuoweijin.com/misc/music/music-ryuichisakamoto/</loc>
     <lastmod>2017-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-amazarashi/</loc>
+    <loc>https://shuoweijin.com/misc/music/music-amazarashi/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -202,11 +218,11 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/external-project/</loc>
+    <loc>https://shuoweijin.com/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/project/external-project/</loc>
+    <loc>https://shuoweijin.com/misc/aime/anime-psycho/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -214,7 +230,7 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-caodong/</loc>
+    <loc>https://shuoweijin.com/misc/music/music-caodong/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -226,6 +242,10 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://shuoweijin.com/misc/movies/movie-kailiblues/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://shuoweijin.com/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -234,39 +254,71 @@
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-sodagreen/</loc>
+    <loc>https://shuoweijin.com/misc/music/music-sodagreen/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/movies/movie-interstellar/</loc>
+    <lastmod>2014-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shuoweijin.com/backup/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/books-blossoms/</loc>
+    <loc>https://shuoweijin.com/misc/aime/anime-attackontitan/</loc>
     <lastmod>2013-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-zhangxuan/</loc>
+    <loc>https://shuoweijin.com/misc/books/books-blossoms/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/music/music-zhangxuan/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-omnipotent-youth/</loc>
+    <loc>https://shuoweijin.com/misc/aime/anime-steins/</loc>
+    <lastmod>2011-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/music/music-omnipotent-youth/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-hikaruutada/</loc>
+    <loc>https://shuoweijin.com/misc/aime/anime-tengentoppagurrenlagann/</loc>
+    <lastmod>2007-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/movies/movie-sunalsorises/</loc>
+    <lastmod>2007-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/music/music-hikaruutada/</loc>
     <lastmod>1999-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-davidtao/</loc>
+    <loc>https://shuoweijin.com/misc/music/music-davidtao/</loc>
     <lastmod>1997-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-cohen/</loc>
+    <loc>https://shuoweijin.com/misc/aime/anime-eva/</loc>
+    <lastmod>1995-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/movies/movie-forestgump/</loc>
+    <lastmod>1994-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/movies/movie-deadpoets/</loc>
+    <lastmod>1989-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shuoweijin.com/misc/music/music-cohen/</loc>
     <lastmod>1979-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/music-pinkfoyd/</loc>
+    <loc>https://shuoweijin.com/misc/music/music-pinkfoyd/</loc>
     <lastmod>1979-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -278,15 +330,15 @@
     <lastmod>1979-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/books-springsnow/</loc>
+    <loc>https://shuoweijin.com/misc/books/books-springsnow/</loc>
     <lastmod>1966-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/books-flowesforalgernon/</loc>
+    <loc>https://shuoweijin.com/misc/books/books-flowesforalgernon/</loc>
     <lastmod>1959-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shuoweijin.com/misc/books-fountainhead/</loc>
+    <loc>https://shuoweijin.com/misc/books/books-fountainhead/</loc>
     <lastmod>1943-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

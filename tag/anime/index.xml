@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anime | Shuowei Jin</title>
+    <link>https://shuoweijin.com/tag/anime/</link>
+      <atom:link href="https://shuoweijin.com/tag/anime/index.xml" rel="self" type="application/rss+xml" />
+    <description>anime</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <title>anime</title>
+      <link>https://shuoweijin.com/tag/anime/</link>
+    </image>
+    
+    <item>
+      <title>Odd Taxi</title>
+      <link>https://shuoweijin.com/misc/aime/anime-oddtaxi/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-oddtaxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mob Psycho 100</title>
+      <link>https://shuoweijin.com/misc/aime/anime-psycho/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-psycho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attack on Titan (進撃の巨人)</title>
+      <link>https://shuoweijin.com/misc/aime/anime-attackontitan/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-attackontitan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steins;Gate</title>
+      <link>https://shuoweijin.com/misc/aime/anime-steins/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-steins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tengen Toppa Gurren-Lagann</title>
+      <link>https://shuoweijin.com/misc/aime/anime-tengentoppagurrenlagann/</link>
+      <pubDate>Fri, 27 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-tengentoppagurrenlagann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evangelion (EVA)</title>
+      <link>https://shuoweijin.com/misc/aime/anime-eva/</link>
+      <pubDate>Thu, 27 Apr 1995 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-eva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
