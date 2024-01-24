@@ -5,12 +5,36 @@
     <link>https://shuoweijin.com/publication-type/1/</link>
       <atom:link href="https://shuoweijin.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 21:56:53 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://shuoweijin.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>OASIS: Collaborative Neural-Enhanced Mobile Video Streaming</title>
+      <link>https://shuoweijin.com/publication/oasis/</link>
+      <pubDate>Tue, 23 Jan 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/oasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUIC is not Quick Enough over Fast Internet</title>
+      <link>https://shuoweijin.com/publication/quic-www/</link>
+      <pubDate>Mon, 22 Jan 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/quic-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for Boosting Mobile Application QoE via Smart Band Switching in 5G/xG Networks</title>
+      <link>https://shuoweijin.com/publication/band-switching-hotmobile/</link>
+      <pubDate>Mon, 20 Nov 2023 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/band-switching-hotmobile/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures</title>

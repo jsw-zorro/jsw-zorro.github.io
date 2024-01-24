@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>OASIS: Collaborative Neural-Enhanced Mobile Video Streaming</title>
+      <link>https://shuoweijin.com/publication/oasis/</link>
+      <pubDate>Tue, 23 Jan 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/oasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUIC is not Quick Enough over Fast Internet</title>
+      <link>https://shuoweijin.com/publication/quic-www/</link>
+      <pubDate>Mon, 22 Jan 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/quic-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for Boosting Mobile Application QoE via Smart Band Switching in 5G/xG Networks</title>
+      <link>https://shuoweijin.com/publication/band-switching-hotmobile/</link>
+      <pubDate>Mon, 20 Nov 2023 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/band-switching-hotmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures</title>
       <link>https://shuoweijin.com/publication/vehicle-sec/</link>
       <pubDate>Wed, 27 Sep 2023 21:56:53 -0400</pubDate>
@@ -288,7 +312,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-428193765&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-158796342&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -298,7 +322,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-428193765&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-158796342&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

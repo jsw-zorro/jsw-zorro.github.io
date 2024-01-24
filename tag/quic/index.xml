@@ -5,12 +5,20 @@
     <link>https://shuoweijin.com/tag/quic/</link>
       <atom:link href="https://shuoweijin.com/tag/quic/index.xml" rel="self" type="application/rss+xml" />
     <description>QUIC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2023 21:56:53 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jan 2024 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>QUIC</title>
       <link>https://shuoweijin.com/tag/quic/</link>
     </image>
+    
+    <item>
+      <title>QUIC is not Quick Enough over Fast Internet</title>
+      <link>https://shuoweijin.com/publication/quic-www/</link>
+      <pubDate>Mon, 22 Jan 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/quic-www/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poster: QUIC is not Quick Enough over Fast Internet</title>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile System | Shuowei Jin</title>
+    <link>https://shuoweijin.com/tag/mobile-system/</link>
+      <atom:link href="https://shuoweijin.com/tag/mobile-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile System</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 21:56:53 -0400</lastBuildDate>
+    <image>
+      <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
+      <title>Mobile System</title>
+      <link>https://shuoweijin.com/tag/mobile-system/</link>
+    </image>
+    
+    <item>
+      <title>OASIS: Collaborative Neural-Enhanced Mobile Video Streaming</title>
+      <link>https://shuoweijin.com/publication/oasis/</link>
+      <pubDate>Tue, 23 Jan 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/oasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for Boosting Mobile Application QoE via Smart Band Switching in 5G/xG Networks</title>
+      <link>https://shuoweijin.com/publication/band-switching-hotmobile/</link>
+      <pubDate>Mon, 20 Nov 2023 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/band-switching-hotmobile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
