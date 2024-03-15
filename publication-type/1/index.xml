@@ -5,12 +5,20 @@
     <link>https://shuoweijin.com/publication-type/1/</link>
       <atom:link href="https://shuoweijin.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 21:56:53 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://shuoweijin.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Adaptive Skeleton Graph Decoding</title>
+      <link>https://shuoweijin.com/publication/sgd/</link>
+      <pubDate>Mon, 19 Feb 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/sgd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OASIS: Collaborative Neural-Enhanced Mobile Video Streaming</title>
