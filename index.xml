@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Our work &#39;OASIS&#39; receives Best Paper Award in MMSys 2024</title>
+      <link>https://shuoweijin.com/news/2024-04-01-oasis-best-paper-award/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/news/2024-04-01-oasis-best-paper-award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptive Skeleton Graph Decoding</title>
       <link>https://shuoweijin.com/publication/sgd/</link>
       <pubDate>Mon, 19 Feb 2024 21:56:53 -0400</pubDate>
@@ -320,7 +328,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-416927385&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-792581643&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -330,7 +338,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-416927385&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-792581643&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
