@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>Compute Or Load KV Cache? Why Not Both?</title>
+      <link>https://shuoweijin.com/publication/cake/</link>
+      <pubDate>Fri, 04 Oct 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eagle: Efficient Training-Free Router for Multi-LLM Inference</title>
+      <link>https://shuoweijin.com/publication/eagle/</link>
+      <pubDate>Mon, 23 Sep 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoSpec: Automated Generation of Neural Network Specifications</title>
+      <link>https://shuoweijin.com/publication/autospec/</link>
+      <pubDate>Tue, 17 Sep 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/autospec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Our work &#39;OASIS&#39; receives Best Paper Award in MMSys 2024</title>
       <link>https://shuoweijin.com/news/2024-04-01-oasis-best-paper-award/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
@@ -328,7 +352,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-592834671&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-938642751&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -338,7 +362,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-592834671&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-938642751&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

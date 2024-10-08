@@ -5,12 +5,36 @@
     <link>https://shuoweijin.com/tag/llm/</link>
       <atom:link href="https://shuoweijin.com/tag/llm/index.xml" rel="self" type="application/rss+xml" />
     <description>LLM</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 21:56:53 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>LLM</title>
       <link>https://shuoweijin.com/tag/llm/</link>
     </image>
+    
+    <item>
+      <title>Compute Or Load KV Cache? Why Not Both?</title>
+      <link>https://shuoweijin.com/publication/cake/</link>
+      <pubDate>Fri, 04 Oct 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eagle: Efficient Training-Free Router for Multi-LLM Inference</title>
+      <link>https://shuoweijin.com/publication/eagle/</link>
+      <pubDate>Mon, 23 Sep 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoSpec: Automated Generation of Neural Network Specifications</title>
+      <link>https://shuoweijin.com/publication/autospec/</link>
+      <pubDate>Tue, 17 Sep 2024 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/autospec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Skeleton Graph Decoding</title>
