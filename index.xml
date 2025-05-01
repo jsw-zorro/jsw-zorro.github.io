@@ -352,7 +352,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-413896752&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-851976432&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -362,7 +362,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-413896752&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-851976432&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -892,7 +892,7 @@ $$&lt;/p&gt;
       <link>https://shuoweijin.com/misc/music/music-fangdatong/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/music/music-fangdatong/</guid>
-      <description>&lt;p&gt;Khalil Fong (方大同) was a singer, songwriter, producer, and soul artist widely regarded as one of the most talented and authentic voices in Chinese music. Known for blending soul, R&amp;amp;B, jazz, and pop into a uniquely warm and expressive style, he touched countless listeners with his honest, delicate love songs like “Three-Person Tour”, “Love Song”, “Ai Ai Ai”, and “Little Bug.” His music radiated the sincerity of someone who loved selflessly—like a kind-hearted boy on a quiet street corner, smiling from afar, simply wishing happiness for the one he loved. Fong’s songwriting was deeply personal, often drawing from his life, such as in “Suzhou River,” written for a girl named Fiona who was said to have inspired much of his early work.&lt;/p&gt;
+      <description>&lt;p&gt;Khalil Fong (方大同) was a singer, songwriter, producer, and soul artist widely regarded as one of the most talented and authentic voices in Chinese music. Known for blending soul, R&amp;amp;B, jazz, and pop into a uniquely warm and expressive style, he touched countless listeners with his honest, delicate love songs like “Three-Person Tour”, “Love Song”, “Ai Ai Ai”, and “Little Bug.” His music radiated the sincerity of someone who loved selflessly—like a kind-hearted boy on a quiet street corner, smiling from afar, simply wishing happiness for the one he loved.&lt;/p&gt;
 &lt;p&gt;But Khalil was far more than a romantic balladeer. He was a musical genius, known for his rich grooves, playful creativity, and masterful arrangements—an artist who could find inspiration in the everyday, even writing songs about cooking noodles. Across his albums, listeners discovered new layers of musical craftsmanship and heartfelt sincerity.&lt;/p&gt;
 &lt;p&gt;For many fans, he wasn’t just a musician, but a kindred spirit—a soulful companion whose music carried them through life’s ups and downs. His passing is a devastating loss to the world: one less good person, one less genius. Rest in peace, Soulboy. You will be deeply missed.&lt;/p&gt;
 </description>
