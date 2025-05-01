@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs</title>
-      <link>https://shuoweijin.com/publication/hetermoe/</link>
-      <pubDate>Fri, 04 Apr 2025 21:56:53 -0400</pubDate>
-      <guid>https://shuoweijin.com/publication/hetermoe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eagle: Efficient Training-Free Router for Multi-LLM Inference</title>
       <link>https://shuoweijin.com/publication/eagle/</link>
       <pubDate>Mon, 23 Sep 2024 21:56:53 -0400</pubDate>

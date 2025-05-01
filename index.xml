@@ -49,14 +49,6 @@
     </item>
     
     <item>
-      <title>HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs</title>
-      <link>https://shuoweijin.com/publication/hetermoe/</link>
-      <pubDate>Fri, 04 Apr 2025 21:56:53 -0400</pubDate>
-      <guid>https://shuoweijin.com/publication/hetermoe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eagle: Efficient Training-Free Router for Multi-LLM Inference</title>
       <link>https://shuoweijin.com/publication/eagle/</link>
       <pubDate>Mon, 23 Sep 2024 21:56:53 -0400</pubDate>
@@ -360,7 +352,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-632578419&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-271639548&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -370,7 +362,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-632578419&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-271639548&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
