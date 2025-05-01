@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: January 1, 2025 --><html lang="en-us" >
+<!-- Last Published: May 1, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -316,7 +316,7 @@
 
   
 
-<meta name="description" content="Large language models (LLMs) have seen significant adoption for natural language tasks, owing their success to massive numbers of model parameters (e.g., 70B&#43;); however, LLM inference incurs significant computation and memory costs. Recent approaches propose parallel decoding strategies, such as Skeleton-of-Thought (SoT), to improve performance by breaking prompts down into sub-problems that can be decoded in parallel; however, they often suffer from reduced response quality. Our key insight is that we can request additional information, specifically dependencies and difficulty, when generating the sub-problems to improve both response quality and performance. In this paper, we propose Skeleton Graph Decoding (SGD), which uses dependencies exposed between sub-problems to support information forwarding between dependent sub-problems for improved quality while exposing parallelization opportunities for decoding independent sub-problems. Additionally, we leverage difficulty estimates for each sub-problem to select an appropriately-sized model, improving performance without significantly reducing quality. Compared to standard autoregressive generation and SoT, SGD achieves a 1.69x speedup while improving quality by up to 51%." />
+<meta name="description" content="Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments." />
 
 
 
@@ -358,17 +358,17 @@
 <meta property="twitter:image" content="https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Shuowei Jin" />
 <meta property="og:url" content="https://shuoweijin.com/publication/sgd/" />
-<meta property="og:title" content="Adaptive Skeleton Graph Decoding | Shuowei Jin" />
-<meta property="og:description" content="Large language models (LLMs) have seen significant adoption for natural language tasks, owing their success to massive numbers of model parameters (e.g., 70B&#43;); however, LLM inference incurs significant computation and memory costs. Recent approaches propose parallel decoding strategies, such as Skeleton-of-Thought (SoT), to improve performance by breaking prompts down into sub-problems that can be decoded in parallel; however, they often suffer from reduced response quality. Our key insight is that we can request additional information, specifically dependencies and difficulty, when generating the sub-problems to improve both response quality and performance. In this paper, we propose Skeleton Graph Decoding (SGD), which uses dependencies exposed between sub-problems to support information forwarding between dependent sub-problems for improved quality while exposing parallelization opportunities for decoding independent sub-problems. Additionally, we leverage difficulty estimates for each sub-problem to select an appropriately-sized model, improving performance without significantly reducing quality. Compared to standard autoregressive generation and SoT, SGD achieves a 1.69x speedup while improving quality by up to 51%." /><meta property="og:image" content="https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Plato: Plan to Efficiently Decode for Large Language Model Inference | Shuowei Jin" />
+<meta property="og:description" content="Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments." /><meta property="og:image" content="https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2024-02-19T00:00:00&#43;00:00"
+      content="2025-04-13T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2024-02-19T21:56:53-04:00">
+    <meta property="article:modified_time" content="2025-04-13T21:56:53-04:00">
   
 
 
@@ -394,10 +394,10 @@
     "@type": "WebPage",
     "@id": "https://shuoweijin.com/publication/sgd/"
   },
-  "headline": "Adaptive Skeleton Graph Decoding",
+  "headline": "Plato: Plan to Efficiently Decode for Large Language Model Inference",
   
-  "datePublished": "2024-02-19T00:00:00Z",
-  "dateModified": "2024-02-19T21:56:53-04:00",
+  "datePublished": "2025-04-13T00:00:00Z",
+  "dateModified": "2025-04-13T21:56:53-04:00",
   
   "author": {
     "@type": "Person",
@@ -412,7 +412,7 @@
       "url": "https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Large language models (LLMs) have seen significant adoption for natural language tasks, owing their success to massive numbers of model parameters (e.g., 70B+); however, LLM inference incurs significant computation and memory costs. Recent approaches propose parallel decoding strategies, such as Skeleton-of-Thought (SoT), to improve performance by breaking prompts down into sub-problems that can be decoded in parallel; however, they often suffer from reduced response quality. Our key insight is that we can request additional information, specifically dependencies and difficulty, when generating the sub-problems to improve both response quality and performance. In this paper, we propose Skeleton Graph Decoding (SGD), which uses dependencies exposed between sub-problems to support information forwarding between dependent sub-problems for improved quality while exposing parallelization opportunities for decoding independent sub-problems. Additionally, we leverage difficulty estimates for each sub-problem to select an appropriately-sized model, improving performance without significantly reducing quality. Compared to standard autoregressive generation and SoT, SGD achieves a 1.69x speedup while improving quality by up to 51%."
+  "description": "Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments."
 }
 </script>
 
@@ -434,7 +434,7 @@
 
 
   
-  <title>Adaptive Skeleton Graph Decoding | Shuowei Jin</title>
+  <title>Plato: Plan to Efficiently Decode for Large Language Model Inference | Shuowei Jin</title>
 
   
   
@@ -840,7 +840,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Adaptive Skeleton Graph Decoding</h1>
+  <h1>Plato: Plan to Efficiently Decode for Large Language Model Inference</h1>
 
   
 
@@ -859,14 +859,15 @@
 
   <span class="author-highlighted">
       Shuowei Jin</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Xueshen Liu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       Yongji Wu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       Haizhong Zheng</span>, <span >
       Qingzhao Zhang</span>, <span >
-      Matthew Lentz</span>, <span >
-      Z. Morley Mao</span>, <span >
       Atul Prakash</span>, <span >
+      Matthew Lentz</span>, <span >
+      Danyang Zhuo</span>, <span >
       Feng Qian</span>, <span >
-      Danyang Zhuo</span>
+      Z. Morley Mao</span>
   </div>
   
   
@@ -877,7 +878,7 @@
     
       
     
-    February, 2024
+    April, 2025
   </span>
   
 
@@ -949,7 +950,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Large language models (LLMs) have seen significant adoption for natural language tasks, owing their success to massive numbers of model parameters (e.g., 70B+); however, LLM inference incurs significant computation and memory costs. Recent approaches propose parallel decoding strategies, such as Skeleton-of-Thought (SoT), to improve performance by breaking prompts down into sub-problems that can be decoded in parallel; however, they often suffer from reduced response quality. Our key insight is that we can request additional information, specifically dependencies and difficulty, when generating the sub-problems to improve both response quality and performance. In this paper, we propose Skeleton Graph Decoding (SGD), which uses dependencies exposed between sub-problems to support information forwarding between dependent sub-problems for improved quality while exposing parallelization opportunities for decoding independent sub-problems. Additionally, we leverage difficulty estimates for each sub-problem to select an appropriately-sized model, improving performance without significantly reducing quality. Compared to standard autoregressive generation and SoT, SGD achieves a 1.69x speedup while improving quality by up to 51%.</p>
+    <p class="pub-abstract">Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments.</p>
     
 
     
@@ -1018,7 +1019,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;text=Adaptive&#43;Skeleton&#43;Graph&#43;Decoding" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;text=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1035,7 +1036,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;t=Adaptive&#43;Skeleton&#43;Graph&#43;Decoding" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;t=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1054,7 +1055,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Adaptive%20Skeleton%20Graph%20Decoding&amp;body=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Plato%3A%20Plan%20to%20Efficiently%20Decode%20for%20Large%20Language%20Model%20Inference&amp;body=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1071,7 +1072,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;title=Adaptive&#43;Skeleton&#43;Graph&#43;Decoding" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;title=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1088,7 +1089,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Adaptive&#43;Skeleton&#43;Graph&#43;Decoding%20https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference%20https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1105,7 +1106,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;title=Adaptive&#43;Skeleton&#43;Graph&#43;Decoding" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;title=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1237,6 +1238,12 @@
 
     </div>
   </div>
+
+
+  
+    
+
+
 
 
   
