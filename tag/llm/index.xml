@@ -5,12 +5,20 @@
     <link>https://shuoweijin.com/tag/llm/</link>
       <atom:link href="https://shuoweijin.com/tag/llm/index.xml" rel="self" type="application/rss+xml" />
     <description>LLM</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 21:56:53 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jul 2025 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>LLM</title>
       <link>https://shuoweijin.com/tag/llm/</link>
     </image>
+    
+    <item>
+      <title>Plato: Plan to Efficiently Decode for Large Language Model Inference</title>
+      <link>https://shuoweijin.com/publication/sgd/</link>
+      <pubDate>Mon, 07 Jul 2025 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/sgd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compute Or Load KV Cache? Why Not Both?</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>Plato: Plan to Efficiently Decode for Large Language Model Inference</title>
-      <link>https://shuoweijin.com/publication/sgd/</link>
-      <pubDate>Sun, 13 Apr 2025 21:56:53 -0400</pubDate>
-      <guid>https://shuoweijin.com/publication/sgd/</guid>
+      <title>HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs</title>
+      <link>https://shuoweijin.com/publication/hetermoe/</link>
+      <pubDate>Fri, 04 Apr 2025 21:56:53 -0400</pubDate>
+      <guid>https://shuoweijin.com/publication/hetermoe/</guid>
       <description></description>
     </item>
     

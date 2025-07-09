@@ -316,12 +316,12 @@
 
   
 
-<meta name="description" content="Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments." />
+<meta name="description" content="The Mixture-of-Experts (MoE) architecture has become increasingly popular as a method to scale up large language models (LLMs). To save costs, heterogeneity-aware training solutions have been proposed to utilize GPU clusters made up of both newer and older-generation GPUs. However, existing solutions are agnostic to the performance characteristics of different MoE model components (i.e., attention and expert) and do not fully utilize each GPU&#39;s compute capability. In this paper, we introduce HeterMoE, a system to efficiently train MoE models on heterogeneous GPUs. Our key insight is that newer GPUs significantly outperform older generations on attention due to architectural advancements, while older GPUs are still relatively efficient for experts. HeterMoE disaggregates attention and expert computation, where older GPUs are only assigned with expert modules. Through the proposed zebra parallelism, HeterMoE overlaps the computation on different GPUs, in addition to employing an asymmetric expert assignment strategy for fine-grained load balancing to minimize GPU idle time. Our evaluation shows that HeterMoE achieves up to 2.3x speed-up compared to existing MoE training systems, and 1.4x compared to an optimally balanced heterogeneity-aware solution. HeterMoE efficiently utilizes older GPUs by maintaining 95% training throughput on average, even with half of the GPUs in a homogeneous A40 cluster replaced with V100." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://shuoweijin.com/publication/sgd/" />
-<link rel="canonical" href="https://shuoweijin.com/publication/sgd/" />
+<link rel="alternate" hreflang="en-us" href="https://shuoweijin.com/publication/hetermoe/" />
+<link rel="canonical" href="https://shuoweijin.com/publication/hetermoe/" />
 
 
 
@@ -357,18 +357,18 @@
   <meta property="twitter:creator" content="@shuoweijin" />
 <meta property="twitter:image" content="https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Shuowei Jin" />
-<meta property="og:url" content="https://shuoweijin.com/publication/sgd/" />
-<meta property="og:title" content="Plato: Plan to Efficiently Decode for Large Language Model Inference | Shuowei Jin" />
-<meta property="og:description" content="Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments." /><meta property="og:image" content="https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://shuoweijin.com/publication/hetermoe/" />
+<meta property="og:title" content="HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs | Shuowei Jin" />
+<meta property="og:description" content="The Mixture-of-Experts (MoE) architecture has become increasingly popular as a method to scale up large language models (LLMs). To save costs, heterogeneity-aware training solutions have been proposed to utilize GPU clusters made up of both newer and older-generation GPUs. However, existing solutions are agnostic to the performance characteristics of different MoE model components (i.e., attention and expert) and do not fully utilize each GPU&#39;s compute capability. In this paper, we introduce HeterMoE, a system to efficiently train MoE models on heterogeneous GPUs. Our key insight is that newer GPUs significantly outperform older generations on attention due to architectural advancements, while older GPUs are still relatively efficient for experts. HeterMoE disaggregates attention and expert computation, where older GPUs are only assigned with expert modules. Through the proposed zebra parallelism, HeterMoE overlaps the computation on different GPUs, in addition to employing an asymmetric expert assignment strategy for fine-grained load balancing to minimize GPU idle time. Our evaluation shows that HeterMoE achieves up to 2.3x speed-up compared to existing MoE training systems, and 1.4x compared to an optimally balanced heterogeneity-aware solution. HeterMoE efficiently utilizes older GPUs by maintaining 95% training throughput on average, even with half of the GPUs in a homogeneous A40 cluster replaced with V100." /><meta property="og:image" content="https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2025-07-07T00:00:00&#43;00:00"
+      content="2025-04-04T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2025-07-07T21:56:53-04:00">
+    <meta property="article:modified_time" content="2025-04-04T21:56:53-04:00">
   
 
 
@@ -392,16 +392,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://shuoweijin.com/publication/sgd/"
+    "@id": "https://shuoweijin.com/publication/hetermoe/"
   },
-  "headline": "Plato: Plan to Efficiently Decode for Large Language Model Inference",
+  "headline": "HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs",
   
-  "datePublished": "2025-07-07T00:00:00Z",
-  "dateModified": "2025-07-07T21:56:53-04:00",
+  "datePublished": "2025-04-04T00:00:00Z",
+  "dateModified": "2025-04-04T21:56:53-04:00",
   
   "author": {
     "@type": "Person",
-    "name": "Shuowei Jin"
+    "name": "Yongji Wu"
   },
   
   "publisher": {
@@ -412,7 +412,7 @@
       "url": "https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments."
+  "description": "The Mixture-of-Experts (MoE) architecture has become increasingly popular as a method to scale up large language models (LLMs). To save costs, heterogeneity-aware training solutions have been proposed to utilize GPU clusters made up of both newer and older-generation GPUs. However, existing solutions are agnostic to the performance characteristics of different MoE model components (i.e., attention and expert) and do not fully utilize each GPU's compute capability. In this paper, we introduce HeterMoE, a system to efficiently train MoE models on heterogeneous GPUs. Our key insight is that newer GPUs significantly outperform older generations on attention due to architectural advancements, while older GPUs are still relatively efficient for experts. HeterMoE disaggregates attention and expert computation, where older GPUs are only assigned with expert modules. Through the proposed zebra parallelism, HeterMoE overlaps the computation on different GPUs, in addition to employing an asymmetric expert assignment strategy for fine-grained load balancing to minimize GPU idle time. Our evaluation shows that HeterMoE achieves up to 2.3x speed-up compared to existing MoE training systems, and 1.4x compared to an optimally balanced heterogeneity-aware solution. HeterMoE efficiently utilizes older GPUs by maintaining 95% training throughput on average, even with half of the GPUs in a homogeneous A40 cluster replaced with V100."
 }
 </script>
 
@@ -434,7 +434,7 @@
 
 
   
-  <title>Plato: Plan to Efficiently Decode for Large Language Model Inference | Shuowei Jin</title>
+  <title>HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs | Shuowei Jin</title>
 
   
   
@@ -454,7 +454,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="aff645931088e3dabc500b6d414c7d49" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="7c7606d184c718849b76bf9e0d162daa" >
 
   
   
@@ -840,7 +840,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Plato: Plan to Efficiently Decode for Large Language Model Inference</h1>
+  <h1>HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs</h1>
 
   
 
@@ -857,17 +857,16 @@
   <div>
     
 
-  <span class="author-highlighted">
-      Shuowei Jin</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Xueshen Liu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+  <span >
       Yongji Wu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Haizhong Zheng</span>, <span >
-      Qingzhao Zhang</span>, <span >
-      Atul Prakash</span>, <span >
+      Xueshen Liu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted">
+      Shuowei Jin</span>, <span >
+      Ceyu Xu</span>, <span >
+      Feng Qian</span>, <span >
+      Z. Morley Mao</span>, <span >
       Matthew Lentz</span>, <span >
       Danyang Zhuo</span>, <span >
-      Feng Qian</span>, <span >
-      Z. Morley Mao</span>
+      Ion Stoica</span>
   </div>
   
   
@@ -878,7 +877,7 @@
     
       
     
-    July, 2025
+    April, 2025
   </span>
   
 
@@ -918,7 +917,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2402.12280" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2504.03871" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -950,7 +949,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Large Language Models (LLMs) are increasingly deployed in large-scale online services, enabling sophisticated applications. However, the computational overhead of generating key-value (KV) caches in the prefill stage presents a major bottleneck, particularly for long-context inputs. Prefix caching mitigates this issue by storing KV caches for reuse, reducing redundant computation. Despite its advantages, prefix caching suffers from high latency due to the limited I/O bandwidth of storage devices, constraining inference efficiency. To address this challenge, we introduce Cake, a novel KV cache loading system that optimally utilizes both computational and I/O resources in parallel. Cake employs a bidirectional scheduling strategy that dynamically balances KV cache computation and loading, ensuring efficient resource utilization. Additionally, Cake incorporates an adaptive scheduling mechanism that seamlessly integrates with non-prefix caching requests, improving system throughput and adapting to fluctuating resource availabilty. Through extensive evaluations across various hardware configurations, datasets, and storage conditions, Cake achieves on average 2.6× reduction in Time to First Token (TTFT) compared to compute-only and I/O-only methods. Our findings highlight Cake as an effective and practical solution for optimizing long-context LLM inference, bridging the gap between computation and I/O efficiency in large-scale AI deployments.</p>
+    <p class="pub-abstract">The Mixture-of-Experts (MoE) architecture has become increasingly popular as a method to scale up large language models (LLMs). To save costs, heterogeneity-aware training solutions have been proposed to utilize GPU clusters made up of both newer and older-generation GPUs. However, existing solutions are agnostic to the performance characteristics of different MoE model components (i.e., attention and expert) and do not fully utilize each GPU&rsquo;s compute capability. In this paper, we introduce HeterMoE, a system to efficiently train MoE models on heterogeneous GPUs. Our key insight is that newer GPUs significantly outperform older generations on attention due to architectural advancements, while older GPUs are still relatively efficient for experts. HeterMoE disaggregates attention and expert computation, where older GPUs are only assigned with expert modules. Through the proposed zebra parallelism, HeterMoE overlaps the computation on different GPUs, in addition to employing an asymmetric expert assignment strategy for fine-grained load balancing to minimize GPU idle time. Our evaluation shows that HeterMoE achieves up to 2.3x speed-up compared to existing MoE training systems, and 1.4x compared to an optimally balanced heterogeneity-aware solution. HeterMoE efficiently utilizes older GPUs by maintaining 95% training throughput on average, even with half of the GPUs in a homogeneous A40 cluster replaced with V100.</p>
     
 
     
@@ -978,7 +977,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">COLM</div>
+          <div class="col-12 col-md-9">Preprint</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1019,7 +1018,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;text=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fhetermoe%2F&amp;text=HeterMoE%3A&#43;Efficient&#43;Training&#43;of&#43;Mixture-of-Experts&#43;Models&#43;on&#43;Heterogeneous&#43;GPUs" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1036,7 +1035,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;t=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fhetermoe%2F&amp;t=HeterMoE%3A&#43;Efficient&#43;Training&#43;of&#43;Mixture-of-Experts&#43;Models&#43;on&#43;Heterogeneous&#43;GPUs" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1055,7 +1054,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Plato%3A%20Plan%20to%20Efficiently%20Decode%20for%20Large%20Language%20Model%20Inference&amp;body=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=HeterMoE%3A%20Efficient%20Training%20of%20Mixture-of-Experts%20Models%20on%20Heterogeneous%20GPUs&amp;body=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fhetermoe%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1072,7 +1071,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;title=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fhetermoe%2F&amp;title=HeterMoE%3A&#43;Efficient&#43;Training&#43;of&#43;Mixture-of-Experts&#43;Models&#43;on&#43;Heterogeneous&#43;GPUs" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1089,7 +1088,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference%20https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=HeterMoE%3A&#43;Efficient&#43;Training&#43;of&#43;Mixture-of-Experts&#43;Models&#43;on&#43;Heterogeneous&#43;GPUs%20https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fhetermoe%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1106,7 +1105,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fsgd%2F&amp;title=Plato%3A&#43;Plan&#43;to&#43;Efficiently&#43;Decode&#43;for&#43;Large&#43;Language&#43;Model&#43;Inference" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fshuoweijin.com%2Fpublication%2Fhetermoe%2F&amp;title=HeterMoE%3A&#43;Efficient&#43;Training&#43;of&#43;Mixture-of-Experts&#43;Models&#43;on&#43;Heterogeneous&#43;GPUs" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1125,6 +1124,18 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
@@ -1238,24 +1249,6 @@
 
     </div>
   </div>
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
 
 
   
