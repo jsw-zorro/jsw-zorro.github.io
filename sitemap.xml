@@ -301,6 +301,9 @@
     <loc>https://shuoweijin.com/misc/movies/movie-everythingeverywhere/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://shuoweijin.com/misc/music/music-hikaruutada/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://shuoweijin.com/misc/books/books-flowesforalgernon/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -311,9 +314,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shuoweijin.com/misc/aime/anime-fulilian/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-hikaruutada/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shuoweijin.com/misc/books/books-hyperion/</loc>

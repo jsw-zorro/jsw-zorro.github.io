@@ -360,7 +360,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-835691247&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-963481725&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -370,7 +370,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-835691247&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-963481725&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1028,6 +1028,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>First Love (Remastered 2024) by Hikaru Utada (宇多田 ヒカル)</title>
+      <link>https://shuoweijin.com/misc/music/music-hikaruutada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/music/music-hikaruutada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flowers for Algernon</title>
       <link>https://shuoweijin.com/misc/books/books-flowesforalgernon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1056,14 +1064,6 @@ $$&lt;/p&gt;
       <link>https://shuoweijin.com/misc/aime/anime-fulilian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/aime/anime-fulilian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hikaru Utada (宇多田 ヒカル)</title>
-      <link>https://shuoweijin.com/misc/music/music-hikaruutada/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/music/music-hikaruutada/</guid>
       <description></description>
     </item>
     
