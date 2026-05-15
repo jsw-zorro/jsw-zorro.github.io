@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Xiaobai-style puppy, no background -->
+  <g transform="translate(12, 12.5)">
+    <!-- Left floppy ear -->
+    <ellipse cx="-6.5" cy="-2" rx="2.2" ry="5" fill="#FEFEFE" stroke="#D5D5D5" stroke-width="0.25" transform="rotate(8, -6.5, -2)"/>
+    <!-- Right floppy ear -->
+    <ellipse cx="6.5" cy="-2" rx="2.2" ry="5" fill="#FEFEFE" stroke="#D5D5D5" stroke-width="0.25" transform="rotate(-8, 6.5, -2)"/>
+    <!-- Inner left ear -->
+    <ellipse cx="-6.5" cy="-2" rx="1.2" ry="3.8" fill="#FFF5F5" transform="rotate(8, -6.5, -2)"/>
+    <!-- Inner right ear -->
+    <ellipse cx="6.5" cy="-2" rx="1.2" ry="3.8" fill="#FFF5F5" transform="rotate(-8, 6.5, -2)"/>
+    <!-- Head -->
+    <circle cx="0" cy="0" r="7" fill="white" stroke="#E8E8E8" stroke-width="0.3"/>
+    <!-- Eyes -->
+    <circle cx="-2.2" cy="-1.2" r="0.55" fill="#333"/>
+    <circle cx="2.2" cy="-1.2" r="0.55" fill="#333"/>
+    <!-- Eye shine -->
+    <circle cx="-2.0" cy="-1.4" r="0.18" fill="white"/>
+    <circle cx="2.4" cy="-1.4" r="0.18" fill="white"/>
+    <!-- Nose -->
+    <ellipse cx="0" cy="0.8" rx="0.7" ry="0.5" fill="#333"/>
+    <!-- Nose highlight -->
+    <ellipse cx="-0.12" cy="0.68" r="0.2" ry="0.14" fill="white"/>
+    <!-- Mouth -->
+    <path d="M-0.8,1.6 Q-0.4,2.3 0,2.1 Q0.4,2.3 0.8,1.6" fill="none" stroke="#333" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Blush -->
+    <ellipse cx="-4.5" cy="1.2" rx="1.1" ry="0.6" fill="#FFD1D1" opacity="0.6"/>
+    <ellipse cx="4.5" cy="1.2" rx="1.1" ry="0.6" fill="#FFD1D1" opacity="0.6"/>
+  </g>
+</svg>

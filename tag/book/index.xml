@@ -5,7 +5,7 @@
     <link>https://shuoweijin.com/tag/book/</link>
       <atom:link href="https://shuoweijin.com/tag/book/index.xml" rel="self" type="application/rss+xml" />
     <description>book</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>book</title>
@@ -13,33 +13,9 @@
     </image>
     
     <item>
-      <title>夜晚的潜水艇(Submarine of the Night)</title>
-      <link>https://shuoweijin.com/misc/books/books-submarine/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/books/books-submarine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>繁花 (Blossoms)</title>
-      <link>https://shuoweijin.com/misc/books/books-blossoms/</link>
-      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/books/books-blossoms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring Snow</title>
-      <link>https://shuoweijin.com/misc/books/books-springsnow/</link>
-      <pubDate>Wed, 27 Apr 1966 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/books/books-springsnow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flowers for Algernon</title>
       <link>https://shuoweijin.com/misc/books/books-flowesforalgernon/</link>
-      <pubDate>Mon, 27 Apr 1959 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/books/books-flowesforalgernon/</guid>
       <description></description>
     </item>
@@ -47,8 +23,80 @@
     <item>
       <title>Fountainhead</title>
       <link>https://shuoweijin.com/misc/books/books-fountainhead/</link>
-      <pubDate>Tue, 27 Apr 1943 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/books/books-fountainhead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperion</title>
+      <link>https://shuoweijin.com/misc/books/books-hyperion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-hyperion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Snow</title>
+      <link>https://shuoweijin.com/misc/books/books-springsnow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-springsnow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stoner</title>
+      <link>https://shuoweijin.com/misc/books/books-stoner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-stoner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Fish Don&#39;t Exist</title>
+      <link>https://shuoweijin.com/misc/books/books-fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>在工厂梦不到工厂</title>
+      <link>https://shuoweijin.com/misc/books/books-factory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-factory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>夜晚的潜水艇(Submarine of the Night)</title>
+      <link>https://shuoweijin.com/misc/books/books-submarine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-submarine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>当我们不再理解世界</title>
+      <link>https://shuoweijin.com/misc/books/books-wedontunderstand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-wedontunderstand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>繁花 (Blossoms)</title>
+      <link>https://shuoweijin.com/misc/books/books-blossoms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-blossoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>聋哑时代</title>
+      <link>https://shuoweijin.com/misc/books/books-longya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/books/books-longya/</guid>
       <description></description>
     </item>
     

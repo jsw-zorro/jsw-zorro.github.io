@@ -5,7 +5,7 @@
     <link>https://shuoweijin.com/tag/anime/</link>
       <atom:link href="https://shuoweijin.com/tag/anime/index.xml" rel="self" type="application/rss+xml" />
     <description>anime</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>anime</title>
@@ -13,41 +13,97 @@
     </image>
     
     <item>
-      <title>Odd Taxi</title>
-      <link>https://shuoweijin.com/misc/aime/anime-oddtaxi/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/aime/anime-oddtaxi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mob Psycho 100</title>
-      <link>https://shuoweijin.com/misc/aime/anime-psycho/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/aime/anime-psycho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Your Lie in April</title>
-      <link>https://shuoweijin.com/misc/aime/anime-yourlieinapril/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/aime/anime-yourlieinapril/</guid>
+      <title>Arcane</title>
+      <link>https://shuoweijin.com/misc/aime/anime-arcane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-arcane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attack on Titan (進撃の巨人)</title>
       <link>https://shuoweijin.com/misc/aime/anime-attackontitan/</link>
-      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/aime/anime-attackontitan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bleach</title>
+      <link>https://shuoweijin.com/misc/aime/anime-bleach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-bleach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cowboy Bebop (星际牛仔)</title>
+      <link>https://shuoweijin.com/misc/aime/anime-cowboybebop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-cowboybebop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CyberPunk EdgeRunners</title>
+      <link>https://shuoweijin.com/misc/aime/anime-edgerunners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-edgerunners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dandadan (胆大党)</title>
+      <link>https://shuoweijin.com/misc/aime/anime-dandadan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-dandadan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evangelion (EVA)</title>
+      <link>https://shuoweijin.com/misc/aime/anime-eva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-eva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frieren Beyond Journey&#39;s End</title>
+      <link>https://shuoweijin.com/misc/aime/anime-fulilian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-fulilian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mob Psycho 100</title>
+      <link>https://shuoweijin.com/misc/aime/anime-psycho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-psycho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odd Taxi</title>
+      <link>https://shuoweijin.com/misc/aime/anime-oddtaxi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-oddtaxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samurai Champloo (混沌武士)</title>
+      <link>https://shuoweijin.com/misc/aime/anime-samurai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-samurai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steins;Gate</title>
       <link>https://shuoweijin.com/misc/aime/anime-steins/</link>
-      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/aime/anime-steins/</guid>
       <description></description>
     </item>
@@ -55,16 +111,24 @@
     <item>
       <title>Tengen Toppa Gurren-Lagann</title>
       <link>https://shuoweijin.com/misc/aime/anime-tengentoppagurrenlagann/</link>
-      <pubDate>Fri, 27 Apr 2007 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/aime/anime-tengentoppagurrenlagann/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evangelion (EVA)</title>
-      <link>https://shuoweijin.com/misc/aime/anime-eva/</link>
-      <pubDate>Thu, 27 Apr 1995 00:00:00 +0000</pubDate>
-      <guid>https://shuoweijin.com/misc/aime/anime-eva/</guid>
+      <title>Your Lie in April</title>
+      <link>https://shuoweijin.com/misc/aime/anime-yourlieinapril/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-yourlieinapril/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>灵笼(Ling Cage)</title>
+      <link>https://shuoweijin.com/misc/aime/anime-linglong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/aime/anime-linglong/</guid>
       <description></description>
     </item>
     

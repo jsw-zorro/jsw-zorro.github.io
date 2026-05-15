@@ -5,7 +5,7 @@
     <link>https://shuoweijin.com/tag/tv/</link>
       <atom:link href="https://shuoweijin.com/tag/tv/index.xml" rel="self" type="application/rss+xml" />
     <description>tv</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://shuoweijin.com/media/icon_hub47520861efba16e2bd7be0edc918a7b_1727177_512x512_fill_lanczos_center_3.png</url>
       <title>tv</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Better Call Saul</title>
       <link>https://shuoweijin.com/misc/tv-series/tv-callsaul/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/tv-series/tv-callsaul/</guid>
       <description></description>
     </item>
@@ -23,15 +23,39 @@
     <item>
       <title>Person of Interest</title>
       <link>https://shuoweijin.com/misc/tv-series/tv-poi/</link>
-      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/tv-series/tv-poi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiroi kyotô (白色巨塔)</title>
+      <link>https://shuoweijin.com/misc/tv-series/tv-tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/tv-series/tv-tower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Long Season (漫长的季节)</title>
+      <link>https://shuoweijin.com/misc/tv-series/tv-longseason/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/tv-series/tv-longseason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tokyo Love Story(东京爱情故事)</title>
+      <link>https://shuoweijin.com/misc/tv-series/tv-tokyolove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/misc/tv-series/tv-tokyolove/</guid>
       <description></description>
     </item>
     
     <item>
       <title>大明王朝 (The Ming Dynasty)</title>
       <link>https://shuoweijin.com/misc/tv-series/tv-mingdynasty/</link>
-      <pubDate>Fri, 27 Apr 2007 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuoweijin.com/misc/tv-series/tv-mingdynasty/</guid>
       <description></description>
     </item>
