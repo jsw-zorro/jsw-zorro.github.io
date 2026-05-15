@@ -33,10 +33,34 @@
     </item>
     
     <item>
+      <title>CoMem: Context Management with A Decoupled Long-Context Model</title>
+      <link>https://shuoweijin.com/publication/comem/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/publication/comem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning</title>
+      <link>https://shuoweijin.com/publication/t2po/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/publication/t2po/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLMVisor: A Real-Time Latency Attribution Model for Multi-Tenant LLM Serving</title>
+      <link>https://shuoweijin.com/publication/llmvisor/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/publication/llmvisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plato: Plan to Efficiently Decode for Large Language Model Inference</title>
-      <link>https://shuoweijin.com/publication/sgd/</link>
-      <pubDate>Mon, 07 Jul 2025 21:56:53 -0400</pubDate>
-      <guid>https://shuoweijin.com/publication/sgd/</guid>
+      <link>https://shuoweijin.com/publication/plato/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/publication/plato/</guid>
       <description></description>
     </item>
     
@@ -53,6 +77,14 @@
       <link>https://shuoweijin.com/publication/hetermoe/</link>
       <pubDate>Fri, 04 Apr 2025 21:56:53 -0400</pubDate>
       <guid>https://shuoweijin.com/publication/hetermoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MARS: Harmonizing Multimodal Convergence via Adaptive Rank Search</title>
+      <link>https://shuoweijin.com/publication/mars/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.com/publication/mars/</guid>
       <description></description>
     </item>
     
@@ -328,7 +360,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-846153792&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-835691247&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -338,7 +370,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-846153792&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-835691247&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
