@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shuoweijin.com/publication-type/1/</loc>
-    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://shuoweijin.com/publication/comem/</loc>
     <lastmod>2026-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,10 +11,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shuoweijin.com/tag/post-training/</loc>
-    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/publication_types/</loc>
     <lastmod>2026-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -48,10 +40,6 @@
   </url><url>
     <loc>https://shuoweijin.com/publication/hetermoe/</loc>
     <lastmod>2025-04-04T21:56:53-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/publication-type/3/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shuoweijin.com/publication/mars/</loc>
@@ -144,219 +132,6 @@
   </url><url>
     <loc>https://shuoweijin.com/tag/machine-learning/</loc>
     <lastmod>2019-08-10T21:56:53-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-amazarashi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/tag/anime/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-arcane/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-ryuichisakamoto/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-attackontitan/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/tv-series/tv-callsaul/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-bleach/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/tag/book/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-brownsugar/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-cowboybebop/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-edgerunners/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-dandadan/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-davidtao/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-deadpoets/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-eva/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-everythingeverywhere/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-hikaruutada/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-flowesforalgernon/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-forestgump/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-fountainhead/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-fulilian/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-hyperion/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-interstellar/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-lookback/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-lotion/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-loveat/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-loveletter/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-luvsic/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-psycho/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/tag/movie/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/tag/music/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-lanadelrey/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-oddtaxi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-omnipotent-youth/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/tv-series/tv-poi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-robotdreams/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-samurai/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-scentofwoman/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/tv-series/tv-tower/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-songsofthekeyoflife/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-cohen/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-springsnow/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-steins/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-stoner/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-tengentoppagurrenlagann/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-dreamer/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/tv-series/tv-longseason/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-theprestige/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-pinkfoyd/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-thriller/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/tv-series/tv-tokyolove/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/tag/tv/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-fish/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-youngfreshchin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-yourlieinapril/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-caodong/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-sodagreen/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-factory/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-submarine/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/tv-series/tv-mingdynasty/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-sunalsorises/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-wedontunderstand/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-nobody/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/aime/anime-linglong/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-zhangxuan/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-blossoms/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/books/books-longya/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/music/music-gowiththeflow/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuoweijin.com/misc/movies/movie-kailiblues/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
