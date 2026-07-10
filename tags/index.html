@@ -1788,6 +1788,50 @@
 
 
 
+  
+
+
+<script>
+(function () {
+  
+  var COLLAPSE_SELECTOR = '.wc-collapse-none';
+
+  function getIsotope(container) {
+    if (!container) return null;
+    if (window.Isotope && window.Isotope.data) {
+      var inst = window.Isotope.data(container);
+      if (inst) return inst;
+    }
+    if (window.jQuery) {
+      var jqInst = window.jQuery(container).data('isotope');
+      if (jqInst) return jqInst;
+    }
+    return null;
+  }
+
+  
+  document.addEventListener('click', function (e) {
+    var btn = e.target && e.target.closest ? e.target.closest('.project-filters a') : null;
+    if (!btn) return;
+
+    
+    if (!btn.classList.contains('active')) return;
+
+    e.preventDefault();
+    e.stopImmediatePropagation(); 
+
+    var section = btn.closest('section');
+    var container = section ? section.querySelector('.projects-container') : null;
+    var iso = getIsotope(container);
+    if (iso) {
+      iso.arrange({ filter: COLLAPSE_SELECTOR });
+    }
+    btn.classList.remove('active');
+  }, true);
+})();
+</script>
+
+
 
 
 

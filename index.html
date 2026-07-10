@@ -1224,7 +1224,7 @@
 <li>Efficient multi-agent training framework: <a href="https://infini-ai-lab.github.io/astraflow/">AstraFlow</a></li>
 <li>Low-latency KV cache loading: <a href="https://arxiv.org/abs/2410.03065">Cake</a> <span class="venue">ICML'25</span></li>
 <li>Parallel inference for LLMs: <a href="https://arxiv.org/abs/2402.12280">Plato</a> <span class="venue">COLM'25</span></li>
-<li>Multi-tenant LLM serving: <a href="https://openreview.net/pdf?id=VeAJmE2ZJU">LLMVisor</a> <span class="venue">NeurIPS'25</span></li>
+<li>Multi-tenant LLM serving: <a href="https://openreview.net/pdf?id=VeAJmE2ZJU">LLMVisor</a> <span class="venue">NeurIPS'25-ML4Sys-Wksp</span></li>
 <li>MoE training on heterogeneous GPUs: <a href="https://arxiv.org/abs/2504.03871">HeterMoE</a></li>
 <li>Efficient router for LLMs: <a href="https://arxiv.org/abs/2409.15518">Eagle</a> <span class="venue">NeurIPS'24-ML4Sys-Wksp</span></li>
 </ul>
@@ -4285,6 +4285,50 @@
   <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
 
 
+
+
+  
+
+
+<script>
+(function () {
+  
+  var COLLAPSE_SELECTOR = '.wc-collapse-none';
+
+  function getIsotope(container) {
+    if (!container) return null;
+    if (window.Isotope && window.Isotope.data) {
+      var inst = window.Isotope.data(container);
+      if (inst) return inst;
+    }
+    if (window.jQuery) {
+      var jqInst = window.jQuery(container).data('isotope');
+      if (jqInst) return jqInst;
+    }
+    return null;
+  }
+
+  
+  document.addEventListener('click', function (e) {
+    var btn = e.target && e.target.closest ? e.target.closest('.project-filters a') : null;
+    if (!btn) return;
+
+    
+    if (!btn.classList.contains('active')) return;
+
+    e.preventDefault();
+    e.stopImmediatePropagation(); 
+
+    var section = btn.closest('section');
+    var container = section ? section.querySelector('.projects-container') : null;
+    var iso = getIsotope(container);
+    if (iso) {
+      iso.arrange({ filter: COLLAPSE_SELECTOR });
+    }
+    btn.classList.remove('active');
+  }, true);
+})();
+</script>
 
 
 
